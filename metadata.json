@@ -1,0 +1,6 @@
+{
+  "name": "Electricista Matriculado - Sebastián Jorfen",
+  "description": "Página web de alta conversión para Sebastián Jorfen, Electricista Matriculado en Zona Oeste y Norte. Solución rápida para altas de medidor Edenor, certificados eléctricos, puestas a tierra e instalaciones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
